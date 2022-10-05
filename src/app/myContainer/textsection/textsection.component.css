@@ -1,0 +1,26 @@
+.text-sec{
+    width: 45%;
+    background: #fff;
+    margin: 10px 5px;
+    padding: 10px;
+    float: left;
+}
+.text-sec h2{
+    color: #f003af;
+    font-size: 18px;
+}
+.text-sec p{
+    color: #858585;
+    font-size: 16px;
+    padding: 10px 0;
+    line-height: 30px ;
+}
+.btn-red{
+    background:#f003af ;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 50px;
+    text-decoration: none;
+    float:right;
+    margin-right: 1.5rem;
+}
